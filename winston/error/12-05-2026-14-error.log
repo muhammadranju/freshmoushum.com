@@ -1,0 +1,48 @@
+Tue May 12 2026 14:34:42 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:34:42 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:34:44 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:34:44 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:34:44 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:34:44 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:34:52 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `products.find()` buffering timed out after 10000ms
+Tue May 12 2026 14:34:52 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `reviews.find()` buffering timed out after 10000ms
+Tue May 12 2026 14:34:54 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:34:54 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:34:54 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:34:54 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:35:4 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:35:4 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:35:4 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:35:4 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:35:4 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:35:4 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:35:14 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `products.find()` buffering timed out after 10000ms
+Tue May 12 2026 14:35:14 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `reviews.find()` buffering timed out after 10000ms
+Tue May 12 2026 14:35:14 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:35:14 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:35:14 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:35:15 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:37:50 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:37:50 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:37:50 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:37:50 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:37:51 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:37:51 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:38:0 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `products.find()` buffering timed out after 10000ms
+Tue May 12 2026 14:38:0 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `reviews.find()` buffering timed out after 10000ms
+Tue May 12 2026 14:38:0 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:38:1 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:38:1 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:38:1 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:41:4 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:41:4 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:41:5 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:41:5 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:41:5 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:41:5 [SERVER-NAME] error: 🤢 Failed to connect Database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Tue May 12 2026 14:41:14 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `products.find()` buffering timed out after 10000ms
+Tue May 12 2026 14:41:14 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `reviews.find()` buffering timed out after 10000ms
+Tue May 12 2026 14:41:15 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:41:15 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:41:15 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 14:41:15 [SERVER-NAME] error: 🚨 handleGlobalError ~~  Operation `cms.findOne()` buffering timed out after 10000ms

@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 1
+    },
+    "auditLog": "E:\\2025\\Fresh MouShum - 2\\winston\\error\\.a77be652b6319ccf82f36c50d268b2b57dfd46f2-audit.json",
+    "files": [
+        {
+            "date": 1778574794298,
+            "name": "E:\\2025\\Fresh MouShum - 2\\winston\\error\\12-05-2026-14-error.log",
+            "hash": "29569b214751ac7161f04a82be8864178eeff78fea91d430778405a595b331a9"
+        }
+    ],
+    "hashType": "sha256"
+}
