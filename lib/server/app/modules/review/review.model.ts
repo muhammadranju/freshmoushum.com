@@ -37,4 +37,4 @@ reviewSchema.pre(/^find/, function (this: any) {
   this.where({ isDeleted: { $ne: true } });
 });
 
-export const Review = models.Review || model<IReview, ReviewModel>('Review', reviewSchema);
+export const Review = (models.Review as ReviewModel) || model<IReview, ReviewModel>('Review', reviewSchema);

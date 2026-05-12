@@ -36,7 +36,7 @@ resetTokenSchema.statics.isExpireToken = async (token: string) => {
   return !!resetToken;
 };
 
-export const ResetToken = models.ResetToken || model<IResetToken, ResetTokenModel>(
+export const ResetToken = (models.ResetToken as ResetTokenModel) || model<IResetToken, ResetTokenModel>(
   'Token',
   resetTokenSchema
 );

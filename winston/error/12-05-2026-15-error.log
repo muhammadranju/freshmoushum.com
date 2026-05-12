@@ -1,0 +1,10 @@
+Tue May 12 2026 15:3:36 [SERVER-NAME] error: 🤢 Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.eurjj.mongodb.net
+Tue May 12 2026 15:3:36 [SERVER-NAME] error: 🤢 Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.eurjj.mongodb.net
+Tue May 12 2026 15:3:46 [SERVER-NAME] error: 🤢 Failed to connect Database Operation `users.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 15:3:46 [SERVER-NAME] error: 🤢 Failed to connect Database Operation `users.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 15:4:43 [SERVER-NAME] error: 🤢 Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.eurjj.mongodb.net
+Tue May 12 2026 15:4:43 [SERVER-NAME] error: 🤢 Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.eurjj.mongodb.net
+Tue May 12 2026 15:5:13 [SERVER-NAME] error: 🤢 Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.eurjj.mongodb.net
+Tue May 12 2026 15:5:13 [SERVER-NAME] error: 🤢 Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.eurjj.mongodb.net
+Tue May 12 2026 15:5:23 [SERVER-NAME] error: 🤢 Failed to connect Database Operation `users.findOne()` buffering timed out after 10000ms
+Tue May 12 2026 15:5:23 [SERVER-NAME] error: 🤢 Failed to connect Database Operation `users.findOne()` buffering timed out after 10000ms

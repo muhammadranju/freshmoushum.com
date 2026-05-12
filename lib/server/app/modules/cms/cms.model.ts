@@ -15,4 +15,4 @@ const cmsSchema = new Schema<ICMS>(
   },
 );
 
-export const CMS = models.CMS || model<ICMS, CMSModel>('CMS', cmsSchema);
+export const CMS = (models.CMS as CMSModel) || model<ICMS, CMSModel>('CMS', cmsSchema);

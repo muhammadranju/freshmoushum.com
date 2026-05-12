@@ -97,4 +97,4 @@ userSchema.pre('save', async function () {
   );
 });
 
-export const User = models.User || model<IUser, UserModal>('User', userSchema);
+export const User = (models.User as UserModal) || model<IUser, UserModal>('User', userSchema);

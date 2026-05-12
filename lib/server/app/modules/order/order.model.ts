@@ -25,4 +25,4 @@ const orderSchema = new Schema<IOrder>(
   },
 );
 
-export const Order = models.Order || model<IOrder, OrderModel>('Order', orderSchema);
+export const Order = (models.Order as OrderModel) || model<IOrder, OrderModel>('Order', orderSchema);
